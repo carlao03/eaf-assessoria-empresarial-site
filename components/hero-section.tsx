@@ -35,7 +35,7 @@ export function HeroSection() {
               size="lg"
               className="bg-primary text-primary-foreground hover:bg-primary/90 gap-2 text-base px-8"
             >
-              <a href="https://wa.me/5518991032017" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/5518981032017" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-5 w-5" />
                 Falar no WhatsApp
               </a>
