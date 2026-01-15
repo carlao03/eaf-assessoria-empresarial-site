@@ -3,7 +3,7 @@ import { MessageCircle, ArrowRight } from "lucide-react"
 
 export function HeroSection() {
   return (
-    <section id="inicio" className="relative min-h-screen flex items-center justify-center world-map-bg pt-20">
+    <section id="inicio" className="relative min-h-screen flex items-center justify-center world-map-bg pt-20 pb-24">
       {/* Background gradient overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-background via-background/95 to-background pointer-events-none" />
 

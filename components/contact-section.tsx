@@ -82,9 +82,9 @@ export function ContactSection() {
                   <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                     <Mail className="h-6 w-6 text-primary" />
                   </div>
-                  <div className="flex-1">
+                  <div className="flex-1 min-w-0">
                     <p className="text-sm text-muted-foreground">E-mail</p>
-                    <p className="text-foreground font-medium">contato@eafassessoria.com.br</p>
+                    <p className="text-foreground font-medium break-all">contato@eafassessoria.com.br</p>
                   </div>
                   <div className="flex items-center gap-1 text-xs text-muted-foreground">
                     {emailCopied ? (
