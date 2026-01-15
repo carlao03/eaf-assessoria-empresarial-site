@@ -13,10 +13,6 @@ export const metadata: Metadata = {
     "Soluções completas em contabilidade, fiscal e assessoria empresarial para MEIs, empresários e pequenas e médias empresas.",
   generator: "v0.app",
   keywords: ["contabilidade", "assessoria empresarial", "fiscal", "MEI", "abertura de empresa", "imposto de renda"],
-  icons: {
-    icon: "/icon.svg",
-    apple: "/icon.svg",
-  },
 }
 
 export default function RootLayout({
